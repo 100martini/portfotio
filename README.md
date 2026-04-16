@@ -12,7 +12,7 @@ My portfolio. Deployed. Live. Rolling.
 
 A film-inspired, overthought, very-on-brand corner of the internet where
 software engineering meets a very specific obsession with 35mm aesthetics
-and Essaouira's golden hour.
+and Giza's golden hour.
 
 Built with love and an unhealthy attention to detail.
 
