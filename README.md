@@ -29,8 +29,11 @@ Tap REC. You'll understand.
 ## 📸 CREDITS
 
 **Directed by** Wiam EL KASSAH
+
 **Shot on** a 13-inch screen at 2am
+
 **Soundtrack** — [open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs?si=f8f267aa9fca4655)
+
 **Special thanks** — 1337 Benguerir for the trauma and the skills, in that order
 
 ---
